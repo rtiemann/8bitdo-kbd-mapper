@@ -34,8 +34,8 @@ set -eu
 8bdkbd map n k                  ; sleep 0.3
 #          m
 
-8bdkbd map capslock leftctrl    ; sleep 0.3
-8bdkbd map leftctrl calc        ; sleep 0.3
+8bdkbd map capslock rightctrl   ; sleep 0.3
+8bdkbd map leftctrl rightmeta   ; sleep 0.3
 8bdkbd map supera compose       ; sleep 0.3
 8bdkbd map superb compose       ; sleep 0.3
 
